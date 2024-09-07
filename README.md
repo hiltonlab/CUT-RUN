@@ -1,5 +1,5 @@
 # CUT&RUN
-CUT&RUN is the leading technology for mapping genomic enrichment of chromatin targets, such as transcription factors and histone PTMs. This script can be used for CUT&amp;RUN analysis starting from raw fastq to normalized bigwigs for visualization in IGV. 
+CUT&RUN is the leading technology for mapping genomic enrichment of chromatin targets, such as transcription factors and histone PTMs. This script can be used for CUT&amp;RUN analysis starting from raw fastq to normalized bigwigs (ecoli spike-ins) for visualization in IGV. 
 
 # Authors
   * Selvalakshmi Selvaraj Anand (https://github.com/Selvalakshmi27/VariantAnnotator)
