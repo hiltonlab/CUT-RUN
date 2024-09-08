@@ -12,5 +12,11 @@ CUT&RUN is the leading technology for mapping genomic enrichment of chromatin ta
   * bamtools (https://github.com/pezmaster31/bamtools)
   * deepTools (https://deeptools.readthedocs.io/en/latest/)
 
+# Usage
+For one sample at a time use ```cut_run.sh``` script
+
+
+```./cut_run.sh <input_R1> <input_R2> <hg38_ref> <ecoli_ref> <output_prefix> <bigwig_prefix> <output_dir> <fastqc_dir>```
+
 
 
